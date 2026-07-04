@@ -58,4 +58,4 @@ Compile any of the standard C source files (`iterative.c` or `recursive.c`) usin
 ```bash
 gcc main.c -o wigglesort
 
-http://localhost/Balancify/index.html
+./wigglesort
